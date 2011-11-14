@@ -1,0 +1,16 @@
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\bin\ProjectRover.Web.dll
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\bin\ProjectRover.Web.pdb
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\bin\EntityFramework.dll
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\bin\Microsoft.Web.Optimization.dll
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\bin\System.Web.Helpers.dll
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\bin\System.Web.Mvc.dll
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\bin\System.Web.Providers.dll
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\bin\System.Web.Razor.dll
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\bin\System.Web.WebPages.dll
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\bin\System.Web.WebPages.Razor.dll
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\bin\EntityFramework.xml
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\obj\Debug\ProjectRover.Web.dll
+F:\Projects\Aspenware\ProjectRover\ProjectRover.Web\obj\Debug\ProjectRover.Web.pdb
